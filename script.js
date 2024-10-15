@@ -71,7 +71,7 @@ const quizSong = [
     },
     {
         question: "Sei solo tu qullo che ho, l'unica droga a cui non ho saputo dire no",
-        options:["Chic - Izi", "Gue - Eravamo re", "Capo Plaza - Non fare così", "Emis Killa - Fuoco e benzina"],
+        options:["Izi - Chic", "Gue - Eravamo re", "Capo Plaza - Non fare così", "Emis Killa - Fuoco e benzina"],
         RightAnswer: "Emis Killa - Fuoco e benzina"
     },
     {
@@ -107,7 +107,7 @@ const quizSong = [
     {
         question: "Dico di si perche insistono, anche se insistono, no non ci vengo alla festa di questo neanche se fosse la festa di Cristo",
         options:["Nayt - Cosa conta davvero", "Massimo Pericolo - Amici", "Mostro - Un po depresso", "Tha Sup - Fuck 3x"],
-        RightAnswer: "Nayt - Casa"
+        RightAnswer: "Massimo Pericolo - Amici"
     }
 
 ];
