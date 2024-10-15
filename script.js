@@ -108,6 +108,31 @@ const quizSong = [
         question: "Dico di si perche insistono, anche se insistono, no non ci vengo alla festa di questo neanche se fosse la festa di Cristo",
         options:["Nayt - Cosa conta davvero", "Massimo Pericolo - Amici", "Mostro - Un po depresso", "Tha Sup - Fuck 3x"],
         RightAnswer: "Massimo Pericolo - Amici"
+    },
+    {
+        question: "E mi ami più di quanto mi aspettassi, nel letto aspetto l'attimo giusto, le chiavi con cui ti apro ti hanno tarpato le ali, rose ner nel bouquet",
+        options:["Nayt - l'occhio della tigre", "Tedua - Wasabi 2.0", "Tedua - Circonvalley", "Rkomi - Apnea"],
+        RightAnswer: "Rkomi - Apnea"
+    },
+    {
+        question: "Sento rumori più freddi di quello che dicono quelli che ho attorno, sento l'estate finire nel mezzo di un bacio una notte di agosto",
+        options:["Fulmini/il fu Venerus - Venerus", "Chiello - Acqua salata", "Jesus - Gemitaiz","Solo un Uomo - Mace"],
+        RightAnswer: "Fulmini/il fu Venerus - Venerus"
+    },
+    {
+        question: "Ce la farò a dimenticarti ma per ora no, ti ho cancellata solamente dal telefono quanto è difficile ignorarti solo io lo so, sono all'inferno e tu sei un angelo al citofono",
+        options: ["Emis Killa - soli(Assieme)", "Club Dogo - P.E.S.", "Emis Killa - Parole di ghiaccio", "Emis Killa - Fuoco e benzina"],
+        RightAnswer: "Emis Killa - soli(Assieme)"
+    },
+    { // <3
+        question: "Vorrei, una villa per noi almeno se lititghiamo ti prendi il secondo piano, sul tetto del mondo ci dondoliamo in fondo ti amo non l'ho detto mai ma quando ridiamo quanto rimiamo io e te",
+        options:["Panamera - NDG", "Nayt - Da Zero", "Massimo Pericolo - Sabbie d'oro", "Salmo Faraway"],
+        RightAnswer: "Nayt - Da Zero"
+    },
+    {
+        question: "Non vedi che sono verde, fumo Namecc, scusami Dende la squadra è in attacco, qua nessuno difende ",
+        options: ["Ghali - Dende", "Ghali - Cara Italia", "Izi - Pasta e Molliche", "Free - Gue"],
+        RightAnswer: "Ghali - Dende"
     }
 
 ];
