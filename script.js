@@ -78,6 +78,36 @@ const quizSong = [
         question: "Mamma me chiamme e nun rispongo, dice 'Addò staje?', nun m'arricordo",
         options:["Geolier - Como te", "Luché - Non abbiamo età", "Emis Killa - Adios", "MV Killa - Luntan a me"],
         RightAnswer: "Geolier - Como te"
+    },
+    {
+        question: "A volte penso che, il freddo dentro me sia quello che mi rende vivo",
+        options:["Il tre - Te lo prometto", "Nayt - Quando non ci crede nessuno", "Nitro - Ho fatto bene", "Nitro - Rotten"],
+        RightAnswer: "Nitro - Ho fatto bene"
+    },
+    {
+        question: "E come ti va? come vuoi che vada? Passato un'altro inverno ancora sogno che il governo cada",
+        options: ["Fabri Fibra - Alieno", "Noyz Narcos - Mic Check", "Salmo - Ordinaria Follia", "Mostro - Strike"],
+        RightAnswer: "Salmo - Ordinaria Follia"
+    },
+    {
+        question: "A volte penso che voglia piovere solo su di me, tengo tutto il peso del mondo sopra le spalle ma guardo e non c'è",
+        options: ["Ernia - Domani", "Ernia - Paranoia mia", "Ernia - Sigarette", "Lazza - 100 messaggi"],
+        RightAnswer: "Ernia - Paranoia mia"
+    },
+    {
+        question: "Lei loquace quanto audace e capricciosa, prspicace in più vorace e vanitosa, ma la notte non si piace e giace sola nel suo letto, stretto per una persona",
+        options:["MadMan - La mia tipa", "Izi - Niagara", "Gue - La mia ragazza è Gangsta", "Nitro - Margot"],
+        RightAnswer: "Nitro - Margot"
+    },
+    {
+        question: "Ho questo amico che, si chiama Jack e fa danni, arriva dritto dal Tennessee ma è in Italia ormai da tanti anni",
+        options:["Emis Killa - Jack", "Salmo - La prima volta", "Jake la Furia - L'ultima volta", "Villabanks - Caribe"],
+        RightAnswer: "Emis Killa - Jack"
+    },
+    {
+        question: "Dico di si perche insistono, anche se insistono, no non ci vengo alla festa di questo neanche se fosse la festa di Cristo",
+        options:["Nayt - Cosa conta davvero", "Massimo Pericolo - Amici", "Mostro - Un po depresso", "Tha Sup - Fuck 3x"],
+        RightAnswer: "Nayt - Casa"
     }
 
 ];
