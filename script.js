@@ -66,7 +66,7 @@ const quizSong = [
     },
     {
         question: "Ma poi queste tipe si innamorano, dice 'dormiamo insieme' dico 'ancora no'",
-        options:["Salmo Lunedi", "Gemitaiz - Toradol", "Bresh - Angelina Jolie", "Neima Ezza - Casa"],
+        options:["Salmo - Lunedi", "Gemitaiz - Toradol", "Bresh - Angelina Jolie", "Neima Ezza - Casa"],
         RightAnswer: "Gemitaiz - Toradol"
     },
     {
@@ -96,7 +96,7 @@ const quizSong = [
     },
     {
         question: "Lei loquace quanto audace e capricciosa, prspicace in più vorace e vanitosa, ma la notte non si piace e giace sola nel suo letto, stretto per una persona",
-        options:["MadMan - La mia tipa", "Izi - Niagara", "Gue - La mia ragazza è Gangsta", "Nitro - Margot"],
+        options:["Madman - La mia tipa", "Izi - Niagara", "Gue - La mia ragazza è Gangsta", "Nitro - Margot"],
         RightAnswer: "Nitro - Margot"
     },
     {
