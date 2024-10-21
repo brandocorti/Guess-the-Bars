@@ -44,7 +44,7 @@ const quizSong = [
         options:["Gemitaiz - Senza di me","Chiello - Acqua Salata", "Madman - Centro", "Nayt - Cosa conta davvero"],
         RightAnswer: "Gemitaiz - Senza di me"
     },
-    {
+    { // #10
         question: "Io non vado a dormire prima delle tre, poi mi sveglio e mi chiedo il sole dov'è?",
         options:["Sfera Ebbasta -  BRNBQ", "Rkomi - Nuovo Range", "Ghali - Happy Days", "Rkomi - Milano Bachata"],
         RightAnswer: "Ghali - Happy Days"
@@ -94,7 +94,7 @@ const quizSong = [
         options: ["Ernia - Domani", "Ernia - Paranoia mia", "Ernia - Sigarette", "Lazza - 100 messaggi"],
         RightAnswer: "Ernia - Paranoia mia"
     },
-    {
+    { //#20
         question: "Lei loquace quanto audace e capricciosa, prspicace in più vorace e vanitosa, ma la notte non si piace e giace sola nel suo letto, stretto per una persona",
         options:["Madman - La mia tipa", "Izi - Niagara", "Gue - La mia ragazza è Gangsta", "Nitro - Margot"],
         RightAnswer: "Nitro - Margot"
@@ -133,7 +133,63 @@ const quizSong = [
         question: "Non vedi che sono verde, fumo Namecc, scusami Dende la squadra è in attacco, qua nessuno difende ",
         options: ["Ghali - Dende", "Ghali - Cara Italia", "Izi - Pasta e Molliche", "Free - Gue"],
         RightAnswer: "Ghali - Dende"
+    },
+    {
+        question: "No sai che c'è? C'ho il compleanno di mia madre, scusa padre, non penso riuscirò a passare scusa frate",
+        options: ["Nayt - Cose che non vuoi sentirti dire", "Nayt - Sorpresa", "Mostro - Un'po depresso", "Nitro - Without you"],
+        RightAnswer: "Mostro - Un'po depresso"
+    },
+    {
+        question: "Sai che l'orgoglio è il mio grande difetto di cui mi vergogno e poi parte il rigetto, Poi quando dormo non sai cosa sogno se non dimostro bisogno d'affetto",
+        options: ["Enigma - Paracadute", "Nitro - San Junipero II", "Paky - Tuta Black", "Nitro - San Junipero I"],
+        RightAnswer: "Nitro - San Junipero I"
+    },
+    { //#30
+        question: "Sto contando cosi tanto che le impronte digitali stanno scomparendo, un mio fratello è stato gambizzato e la vendetta fra è il primo comandamento",
+        options: ["Gemitaiz - Codice pin", "Luché - Voodoo", "Coco - Voodoo", "Gemitaiz - Voodoo"],
+        RightAnswer: "Luché - Voodoo"
+    },
+    {
+        question: "Io con te non rispetto le convenzioni, non accetto le correzioni, Mi faccio male, mi lascio andare senza protezioni mano nella mano, senza mai cascare su nel piano astrale come proiezioni",
+        options:["Madman - Non esiste", "Madman - Blue Sky", "MACE - Sogni lucidi", "Priestess - Andromeda"],
+        RightAnswer: "Madman - Non esiste"
+    },
+    {
+        question: "Senza soldi in tasca nessuno fa quello che vuole, con i soldi in tasca trovi sempre la soluzione",
+        options: ["Sfera Ebbasta - Uh Ah Hey", "Izi - tutto apposto", "Lazza- Gigolò", "Sfera Ebbasta - Gelosi"],
+        RightAnswer: "Sfera Ebbasta - Uh Ah Hey"
+    },
+    {
+        question: "Avessi messo nel mio credo un'poi di meno del mio ego, forse avrei il cuore in cemento e non di vetro",
+        options: ["Massimo Pericolo - BREBBIA 2012", "Massimo Pericolo - 7 miliardi", "Nitro - Storia di un presunto artista", "Nitro - Storia di un defunto artista"],
+        RightAnswer: "Nitro - Storia di un defunto artista"
+    },
+    {
+        question: "Prima dicevi: 'Sei unica' ora ti stanchi se non si comunica",
+        options: ["Tedua - Beatrice", "Madame - Dimmi ora", "Marracash - Quelli che non pensano", "Samurai Jay - Bye Bye"],
+        RightAnswer: "Madame - Dimmi ora"
+    },
+    {
+        question: " E vorrei, dirti quello a cui penso, ma quello che ho dentro terrorrizza anche me",
+        options: ["Sfera Ebbasta - Male", "Izi - Fumo da solo", "Silent Bob - Vedova Nera", "Silent Bob - I miei ciò"],
+        RightAnswer: "Silent Bob - Vedova Nera"
+    },
+    {
+        question: "Ho scritto almeno 20 dischi per sedarmi, porto l'esercito dei tristi, Sad Army",
+        options: ["Jesto - Felice", "Sercho - Vaffanculo", "Emis Killa - La mia malattia", "Axos - La pluie"],
+        RightAnswer: "Axos - La pluie"
+    },
+    {
+        question: "Mi chiedo sempre quando imparerai, a dare tutto a chi ti ha dato mai",
+        options: ["Salmo - Giuda", "Ensi - Mamma diceva", "Gue - Too old to die young", "Gemitaiz - Il primo"],
+        RightAnswer: "Ensi - Mamma diceva"
+    },
+    {
+        question: "Mi capita di stare anche peggio, ma di che parli? Parlo da solo, dovrei preoccuparmi?",
+        options: ["Salmo - Il senso dell'odio", "Salmo - Venice Beach", "Salmo - Yoko-Ono", "salmo - La prima volta"],
+        RightAnswer: "Salmo - Il senso dell'odio"
     }
+
 
 ];
 
