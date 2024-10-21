@@ -160,7 +160,7 @@ const quizSong = [
         RightAnswer: "Sfera Ebbasta - Uh Ah Hey"
     },
     {
-        question: "Avessi messo nel mio credo un'poi di meno del mio ego, forse avrei il cuore in cemento e non di vetro",
+        question: "Avessi messo nel mio credo un'po di meno del mio ego, forse avrei il cuore in cemento e non di vetro",
         options: ["Massimo Pericolo - BREBBIA 2012", "Massimo Pericolo - 7 miliardi", "Nitro - Storia di un presunto artista", "Nitro - Storia di un defunto artista"],
         RightAnswer: "Nitro - Storia di un defunto artista"
     },
