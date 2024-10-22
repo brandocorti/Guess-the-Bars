@@ -188,8 +188,27 @@ const quizSong = [
         question: "Mi capita di stare anche peggio, ma di che parli? Parlo da solo, dovrei preoccuparmi?",
         options: ["Salmo - Il senso dell'odio", "Salmo - Venice Beach", "Salmo - Yoko-Ono", "salmo - La prima volta"],
         RightAnswer: "Salmo - Il senso dell'odio"
+    },
+    {
+        question: "E vedi sempre nei miei occhi la malinconia, ma mi sa che sta volta la colpa è mia",
+        options: ["Marracash - Purdi", "Ketama - Angeli Caduti", "Nitro - Storia di un presunto artista", "Nitro - Storia di un defunto artista"],
+        RightAnswer: "Nitro - Storia di un defunto artista"
+    },
+    { // #40
+        question: "Scusa ma non me la sento, dopo questo giro scendo, io sono esattamente quello che sembro fuori c'è il sole ma piove dentroo",
+        options: ["Gue - In orbita", "Salmo - Lunedì", "Salmo - Salmo 23", "Gue - Trentuno giorni"],
+        RightAnswer: "Salmo - Salmo 23"
+    },
+    {
+        question: "La testa che non ragiona, la city che mi imprigiona, la sensazione, malinconia, tentazione che non va vis",
+        options: ["Gue - Fuori orario", "Coez - Fuori orario", "Gue - Signora", "Gue - Squalo"],
+        RightAnswer: "Gue - Fuori orario"
+    },
+    {
+        question: "Sui social medicine, fucili e mitragliatrici, ma il tuo scopo sulla terra è fare ridere i miei amici",
+        options: ["Nayt - Fame", "Ensi - Noi", "Nerone - Oh yes", "Nayt - OPSS"],
+        RightAnswer: "Nerone - Oh yes"
     }
-
 
 ];
 
