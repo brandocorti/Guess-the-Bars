@@ -318,10 +318,10 @@ function displayFinalMessage(){
 
 
     resultElement.innerHTML =  `
-        <p>${finalMessage}</p> 
-        <p class="final-score ${scoreClass}">${score}</p>
-        <p>${spotifyLink}</p>
-     ` ;
+    <p>${finalMessage}</p> 
+    <p class="final-score ${scoreClass}">${score}</p>
+    <p>${spotifyLink}</p>
+ ` ;
 }
 
 function restartQuiz(){
